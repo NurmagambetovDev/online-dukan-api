@@ -4,7 +4,7 @@ __pycache__/
 *$py.class
 
 # Virtual ortalıq 
-venv/
+.venv/
 env/
 .env
 
